@@ -1,3 +1,7 @@
+data/
+.DS_Store
+classify_image_graph_def.pb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
