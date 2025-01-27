@@ -1,0 +1,1 @@
+python scripts/image_train.py --data_dir ../chexpert/training --batch_size 32 --image_size 64 --class_cond True
